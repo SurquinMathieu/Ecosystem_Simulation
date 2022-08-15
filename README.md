@@ -1,4 +1,6 @@
 # Ecosystem_Simulation
+Mathieu Surquin [195199]
+
 Simulation of a simplified ecosystem
 
 This program requires pygame in order to run properly. Once you are ready, run the 'main.py' file.
